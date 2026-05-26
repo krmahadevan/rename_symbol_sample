@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "javalens": {
+      "command": "/Users/krishnanmahadevan/.sdkman/candidates/java/21.0.5-amzn/bin/java",
+      "args": [
+        "-jar",
+        "/Users/krishnanmahadevan/tools/javalens-v1.3.4/javalens.jar",
+        "-data",
+        "/Users/krishnanmahadevan/tools/javalens-v1.3.4/workspaces"
+      ]
+    }
+  }
+}
